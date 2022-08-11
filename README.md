@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirhyman
 - 👀 I’m interested in march madness, encouraging more women to join software engineering, teaching cse & the bachelor.
 - 🌱 I’m currently learning new stuff every day!
-- 📫 How to reach me miribhyman@gmail.com
+- 📫 How to reach me miribhyman@gmail.com for personal commits, miriamhyman@google.com for work related commits or PRs.
 
 <!---
 mirhyman/mirhyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
